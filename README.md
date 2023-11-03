@@ -2,34 +2,27 @@
 
 [https://www.acceleratesf.org/](https://www.acceleratesf.org)
 
-Accepted participants will build AI solutions to the most pressing challenges in San Francisco, with potential for city-wide deployment. We're collaborating with local stakeholders to scope these challenges in housing, homelessness, public infrastructure, and more.  Winning teams will receive cash prizes and API credits as well as exclusive opportunities to present these submissions to city and state level decision makers.
+Accepted participants will build AI solutions to the most pressing challenges in San Francisco, with potential for city-wide deployment. We're collaborating with local stakeholders to scope these challenges in housing, homelessness, public infrastructure, and more.  Winning teams will receive cash prizes and API credits as well as exclusive opportunities to present these submissions to city and state level decision makers. 
 
-# RESOURCES
+# DATASETS
 
-## DATASETS
+#### 1. [CITY DATASETS LINK](DATASETS.md#city-of-san-francisco-datasets)
+#### 2. [OTHER DATASETS LINK](DATASETS.md#other-data-sets)
 
-### CITY DATASETS
+# TOOLS
 
-
-### STATE DATASETS
-
-### OTHER DATASETS
-
-## TOOLS
-
-### AI TOOLS
-
-### OTHER TOOLS
+#### 3. [AI TOOLS LINK](RESOURCES.md#llm--data-tools)
+#### 4. [RECOMMENDATIONS LINK](RESOURCES.md#start--approach---suggestions)
 
 
-# EVENT RULES AND AGENDA
-
-## HACKATHON RULES
-[HACKATHON  - RULES.md](RULES.md)
+# HACKATHON RULES 
+THE RULES AND SCOPE OF THE HACKATHON, HOW SUBMISSION WORKS, RULES OF CONDUCT AND MORE. 
+### [LINK TO RULES.md](RULES.md)
 
 ## HACKATHON EVENT AGENDA
 
-[Saturday, Nov. 4]
+*
+### [Saturday, Nov. 4]
 
 - 9:30 AM Doors open for breakfast
 - 10:00 AM Welcome Kick-Off with SF Supervisors
@@ -41,7 +34,7 @@ Accepted participants will build AI solutions to the most pressing challenges in
 - 7:00 PM Dinner
 - 11:00 PM Doors close
 
-[Sunday, Nov. 5]
+### [Sunday, Nov. 5]
 
 - 9:30 AM Doors open for breakfast
 - 10:00 AM Panel Discussion on Tech for Public Sector
@@ -54,20 +47,21 @@ Accepted participants will build AI solutions to the most pressing challenges in
 
 Sponsored by Scale and Chroma. In partnership with SF Gov. Office of Innovation.
 
-Prizes from 
-- OpenAI
-- Stripe
-- Anthropic
-- Replit 
-- LangChain
+# PRIZES FROM
+- OpenAI - [OPENAI DOCS](https://platform.openai.com/docs/introduction)
+- Stripe - [STRIPE DOCS](https://stripe.com/docs)
+- Anthropic - [CLAUDE DOCS](https://docs.anthropic.com/claude/docs)
+- Replit - [REPLIT DOCS](https://docs.replit.com/)
+- PYTHON LangChain - [PY LANGCHAIN DOCS](https://python.langchain.com/docs/get_started/introduction)
+-  JS/TS LANGCHAIN - [JS LANGCHAIN DOCS](https://js.langchain.com/docs/get_started/introduction/)
 
-Judges / Speakers: 
+# Judges / Speakers: 
 
-- Mayor London Breed,
-- State Senator Scott Wiener,
-- City of SF Supervisor Joel Engardio and
-- Catherine Stefani
-- SF City Attorney David Chiu
+- Mayor , London Breed
+- State Senator , Scott Wiener
+- City Supervisor , Joel Engardio 
+- City Supervisor , Catherine Stefani
+- SF City Attorney , David Chiu
 - Anton Troynikov
 - Kim Polese
 - Chris Průcha
