@@ -34,7 +34,6 @@ https://openbook-report.sfgov.org/ccsf_content/SpendingRevenueHelp/HowToUse.html
 #### [9] Planning property info-map :  (Called PIM) aggregates a lot of other public datasets in a single location. 
 https://sfplanninggis.org/pim/
 
--
 
 ## Other Data Sets
 
