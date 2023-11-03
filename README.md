@@ -7,7 +7,7 @@ Accepted participants will build AI solutions to the most pressing challenges in
 # RESOURCES
 
 # HACKATHON RULES
-[RULES.md](https://github.com/soltrinox/sfhack-resources/blob/main/RULES.md#acceleratesforg-hackathon-2023-the-hackathon-official-rules)
+[RULES.md](https://github.com/soltrinox/sfhack-resources/blob/26a6e2028594a8cb9509c8c7843d5fe160f19ca8/RULES.md)
 
 # HACKATHON EVENT AGENDA
 
