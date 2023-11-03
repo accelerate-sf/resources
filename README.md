@@ -2,11 +2,7 @@
 
 [https://www.acceleratesf.org/](https://www.acceleratesf.org/)
 
-Accepted participants will build AI solutions to the most pressing challenges in San Francisco, with potential for city-wide deployment.
-
-We're collaborating with local stakeholders to scope these challenges in housing, homelessness, public infrastructure, and more.
-
-Winning teams will receive cash prizes and API credits as well as exclusive opportunities to present these submissions to city and state level decision makers.
+Accepted participants will build AI solutions to the most pressing challenges in San Francisco, with potential for city-wide deployment. We're collaborating with local stakeholders to scope these challenges in housing, homelessness, public infrastructure, and more.  Winning teams will receive cash prizes and API credits as well as exclusive opportunities to present these submissions to city and state level decision makers.
 
 Agenda
 
@@ -44,6 +40,9 @@ Judges / Speakers: Mayor London Breed, State Senator Scott Wiener, Supervisors J
 
 ## TOOLS
 
+
 ## DATASETS
+
+
 
 
