@@ -125,7 +125,7 @@ CHALLENGES : https://github.com/orgs/accelerate-sf/repositories
 
 - Provide a URL to your code repository for judging and testing. 
 
-- If not a public repository, you must grant access to our judges by sharing it with contact@AccelerateSF.org.com.
+- If not a public repository, you must grant access to our judges by sharing it with contact@AccelerateSF.org 
 
 - Provide a public URL to the Project.
 
