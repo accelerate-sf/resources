@@ -11,7 +11,7 @@ Accepted participants will build AI solutions to the most pressing challenges in
 ## DATASETS
 
 
-## Agenda
+# HACKATHON EVENT AGENDA
 
 [Saturday, Nov. 4]
 
