@@ -6,6 +6,15 @@ Accepted participants will build AI solutions to the most pressing challenges in
 
 # RESOURCES
 
+### DATASETS
+
+
+### RESOURCE TOOLS
+
+
+### LLM & Ai TOOLS
+
+
 # HACKATHON RULES
 [HACKATHON  - RULES.md](https://github.com/soltrinox/sfhack-resources/blob/main/RULES.md)
 
