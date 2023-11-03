@@ -148,7 +148,7 @@ Upload an .apk file on the Enter a Submission form or provide a link for downloa
 
 If your Project is available on the iTunes App Store provide a link on your submission form. If you charge a fee for downloading your Project, you must provide a promo code.
 
-If your Project is not yet publicly available on the iTunes App Store, you must send a test build to contact@AccelerateSF.org before the end of the Hackathon Submission Period iTunes TestFlight: https://developer.apple.com/testflight/ TestFlight / iTunes Connect: Enter the Administrator’s email address to share a build for testing. The Administrator’s TestFlight account email is: dev-advocacy@AccelerateSF.org.com 
+If your Project is not yet publicly available on the iTunes App Store, you must send a test build to contact@AccelerateSF.org before the end of the Hackathon Submission Period iTunes TestFlight: https://developer.apple.com/testflight/ TestFlight / iTunes Connect: Enter the Administrator’s email address to share a build for testing. The Administrator’s TestFlight account email is: contact@AccelerateSF.org.com 
 
 Web/Mobile Web: Provide a link for accessing your Project in the  Submission Document.
 
