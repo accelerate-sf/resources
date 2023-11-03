@@ -1,8 +1,8 @@
 ### AccelerateSF.org HACKATHON 2023 (THE “HACKATHON”) OFFICIAL RULES
 
-[1] NO PURCHASE OR PAYMENT NECESSARY TO ENTER OR WIN. A PURCHASE OR PAYMENT WILL NOT INCREASE YOUR CHANCES OF WINNING.
+[1] No purchase or payment necessary to enter or win. a purchase or payment will not increase your chances of winning.
 
-[2] SUBMISSION OF ANY ENTRY CONSTITUTES AGREEMENT TO THESE OFFICIAL RULES AS A CONTRACT BETWEEN ENTRANT (AND EACH INDIVIDUAL MEMBER OF ENTRANT), THE HACKATHON SPONSOR, AND AccelerateSF.org.
+[2] Submission of any entry constitutes agreement to these official rules as a contract between entrant (and each individual member of entrant), the hackathon sponsor, AND AccelerateSF.org.
 
  
 ### 1. Dates and Timing
@@ -20,7 +20,7 @@ On Sunday, Nov. 5 2023 (4:00-5:00 pm Pacific Time).
 ### 2. Sponsor and Administrator
 Sponsor: AccelerateSF.org,  San Francisco, CA 94105
 
-Administrator: 
+- Administrator: 
 Administrator is responsible for the Official Rules, administration, and operation of the Hackathon.
 
 
@@ -63,6 +63,9 @@ The Hackathon IS NOT open to:
 
 ***An affiliate is: (a) an organization that is under common control, sharing a common majority or controlling owner, or common management; or (b) an organization that has a substantial ownership in, or is substantially owned by the other organization.
 
+### How hackathon handles participant data 
+Hackathon reserves the rights to share participant names / emails with our partner orgs and sponsors.
+
  
 ### How To Enter
 Entrants may enter by visiting AccelerateSF.org (“Hackathon Website”) and following the below steps:
@@ -88,21 +91,21 @@ CHALLENGES : https://github.com/orgs/accelerate-sf/repositories
 
 ### Implementation Rules and Requirements:
 
-- COPY-PASTING PROMPT OUTPUTS MANUALLY IS NOT RECOMMENDED. IF PUBLIC LANGUAGE MODELS ARE USED, WE ADVISE INCLUDING PROMPTS IN THE SOURCE REPOSITORY.
+- copy-pasting prompt outputs manually is not recommended. if public language models are used, we advise including prompts in the source repository.
 
-- THE USE OF PRE-WRITTEN OR PRE-EXISTING CODE MUST BE PUBLICLY AVAILABLE AND FULLY ATTRIBUTED TO THE AUTHORS.
+- the use of pre-written or pre-existing code must be publicly available and fully attributed to the authors.
 
-- THE USE OF OPEN SOURCE SOFTWARE MUST BE PROPERLY ATTRIBUTED, AND LINKS TO THE SOURCE CODE SHOULD BE PROVIDED.
+- the use of open source software must be properly attributed, and links to the source code should be provided.
 
-- THE USE OF OPEN SOURCE IS ALLOWED AND ENCOURAGED, BUT IT MUST BE ATTRIBUTED APPROPRIATELY.
+- the use of open source is allowed and encouraged, but it must be attributed appropriately.
 
-- OUR VERIFICATION TEAM WILL REVIEW THE DIFFERENCES TO DETERMINE THE EXTENT OF THE CODE YOU HAVE WRITTEN AND MODIFIED COMPARED TO THE ORIGINAL OPEN SOURCE REPOSITORY.
+- our verification team will review the differences to determine the extent of the code you have written and modified compared to the original open source repository.
 
-- PLEASE DO NOT ATTEMPT TO PRESENT OTHERS' WORK AS YOUR OWN. SUCH ACTIONS WILL LEAD TO DISCOVERY AND DISQUALIFICATION.
+- please do not attempt to present others' work as your own. such actions will lead to discovery and disqualification.
 
-- **PLEASE NOTE:** ALL CODE WILL BE REVIEWED AND CHECKED FOR OPEN SOURCE USE AND ORIGIN BEFORE THE HACKATHON.
+- **Please Note:** all code will be reviewed and checked for open source use and origin before the hackathon.
 
-- ALL OPEN SOURCE PROJECTS AND CODE MUST BE ATTRIBUTED TO THE CREATOR AND DISCLOSED IN THE DESCRIPTION.
+- all open source projects and code must be attributed to the creator and disclosed in the description.
 
 **Functionality**: The Project must be capable of being successfully installed and running consistently on the platform for which it is intended and must function as depicted in the video and/or expressed in the text description.
 
@@ -200,3 +203,5 @@ All Submissions remain the intellectual property of the individuals or organizat
 By entering the Hackathon, you grant to the Sponsor, Administrator, and any other third parties acting on the Sponsor’s behalf, a royalty-free, non-exclusive, worldwide perpetual license to display publicly and use for promotional purposes the Submission, in perpetuity. This license includes, but is not limited to, the marketing, or promotion of on Sponsor’s, Administrator’s, and partners’ products or services, posting or linking to the Submission on Sponsor’s, Administrator’s, and partners’ websites and applications, including the Hackathon Website, and display and promotion of the Submission in any other media, worldwide. By entering you acknowledge that the Sponsor, Administrator, or partner may have developed or commissioned materials similar or identical to your Submission and you waive any claims resulting from any similarities of such materials to your entry. Further you understand that the Sponsor, Administrator or partner will not restrict work assignments of representatives who have had access to your Submission and you agree that use of information in their representatives’ unaided memories in the development or deployment of their products or services does not create liability for us under this agreement or copyright or trade secret law.
 
 By submitting an entry, entrants agree that the Sponsor will have a fully paid, non-exclusive license to use such entry for judging the entry. Some Submission components may be displayed to the public. Other Submission materials may be viewed by the sponsor, AccelerateSF.org, and judges for screening and evaluation. By submitting a Submission or accepting any prize, Entrants represent and warrant that (a) submitted content is not copyrighted, protected by trade secret or otherwise subject to third party intellectual property rights or other proprietary rights, including privacy and publicity rights, unless Entrant is the owner of such rights or has permission from their rightful owner to post the content; and (b) the content submitted does not contain any viruses, Trojan horses, worms, spyware or other disabling devices or harmful or malicious code.
+
+Furthermore, by virtue of the information's status as public domain, any solution devised during the hackathon shall also enter the public domain, hereby nullifying and rendering void any claim to intellectual property rights thereon. Participants shall not assert proprietary rights over the data, as it is the property of the City of San Francisco and its resident populace and citizenry.

@@ -4,22 +4,22 @@
 
 Accepted participants will build AI solutions to the most pressing challenges in San Francisco, with potential for city-wide deployment. We're collaborating with local stakeholders to scope these challenges in housing, homelessness, public infrastructure, and more.  Winning teams will receive cash prizes and API credits as well as exclusive opportunities to present these submissions to city and state level decision makers. 
 
-# DATASETS
+# Datasets
 
-#### 1. [CITY DATASETS LINK](DATASETS.md#city-of-san-francisco-datasets)
-#### 2. [OTHER DATASETS LINK](DATASETS.md#other-data-sets)
+#### 1. [City datasets link](DATASETS.md#city-of-san-francisco-datasets)
+#### 2. [Other datasets link](DATASETS.md#other-data-sets)
 
-# TOOLS
+# Tools
 
-#### 3. [AI TOOLS LINK](RESOURCES.md#llm--data-tools)
-#### 4. [RECOMMENDATIONS LINK](RESOURCES.md#start--approach---suggestions)
+#### 3. [Ai tools link](RESOURCES.md#llm--data-tools)
+#### 4. [Recommendations link](RESOURCES.md#start--approach---suggestions)
 
 
-# HACKATHON RULES 
-THE RULES AND SCOPE OF THE HACKATHON, HOW SUBMISSION WORKS, RULES OF CONDUCT AND MORE. 
-### [LINK TO RULES.md](RULES.md)
+# Hackathon Rules 
+The rules and scope of the hackathon, how submission works, rules of conduct and more. 
+### [Link to rules ](RULES.md)
 
-## HACKATHON EVENT AGENDA
+## Hackathon event agenda
 
 *
 ### [Saturday, Nov. 4]
@@ -47,7 +47,7 @@ THE RULES AND SCOPE OF THE HACKATHON, HOW SUBMISSION WORKS, RULES OF CONDUCT AND
 
 Sponsored by Scale and Chroma. In partnership with SF Gov. Office of Innovation.
 
-# PRIZES FROM
+# Prize Sponsors
 - OpenAI - [OPENAI DOCS](https://platform.openai.com/docs/introduction)
 - Stripe - [STRIPE DOCS](https://stripe.com/docs)
 - Anthropic - [CLAUDE DOCS](https://docs.anthropic.com/claude/docs)
