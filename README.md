@@ -1,15 +1,13 @@
 # Resources AccelerateSF.org
 
-[https://www.acceleratesf.org/](https://www.acceleratesf.org/)
+[https://www.acceleratesf.org/](https://www.acceleratesf.org)
 
 Accepted participants will build AI solutions to the most pressing challenges in San Francisco, with potential for city-wide deployment. We're collaborating with local stakeholders to scope these challenges in housing, homelessness, public infrastructure, and more.  Winning teams will receive cash prizes and API credits as well as exclusive opportunities to present these submissions to city and state level decision makers.
 
 # RESOURCES
 
-## TOOLS
-
-## DATASETS
-
+# HACKATHON RULES
+[RULES LINK](RULES.md)
 
 # HACKATHON EVENT AGENDA
 
