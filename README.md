@@ -6,19 +6,28 @@ Accepted participants will build AI solutions to the most pressing challenges in
 
 # RESOURCES
 
-### DATASETS
+## DATASETS
+
+### CITY DATASETS
 
 
-### RESOURCE TOOLS
+### STATE DATASETS
+
+### OTHER DATASETS
+
+## TOOLS
+
+### AI TOOLS
+
+### OTHER TOOLS
 
 
-### LLM & Ai TOOLS
+# EVENT RULES AND AGENDA
 
+## HACKATHON RULES
+[HACKATHON  - RULES.md](RULES.md)
 
-# HACKATHON RULES
-[HACKATHON  - RULES.md](https://github.com/soltrinox/sfhack-resources/blob/main/RULES.md)
-
-# HACKATHON EVENT AGENDA
+## HACKATHON EVENT AGENDA
 
 [Saturday, Nov. 4]
 
